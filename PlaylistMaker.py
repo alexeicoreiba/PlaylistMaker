@@ -18,7 +18,6 @@ if __name__ == "__main__":
     import os
     import sys
     import getopt
-    import glob
 
     def usage():
         print('Usage:    ' + os.path.basename(__file__) + ' directory')
